@@ -19,7 +19,7 @@ import javax.swing.event.ListDataListener;
 
 /**
  *
- * @author rares
+ * @author papixo
  */
 public class DriverApp extends javax.swing.JFrame implements DeliverCallback, Runnable{
     

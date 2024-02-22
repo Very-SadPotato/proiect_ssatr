@@ -13,7 +13,7 @@ import java.util.concurrent.TimeoutException;
 
 /**
  *
- * @author rares
+ * @author papixo
  */
 public class Start {
     

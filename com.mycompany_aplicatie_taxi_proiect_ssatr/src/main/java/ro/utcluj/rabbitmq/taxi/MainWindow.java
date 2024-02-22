@@ -6,7 +6,7 @@ package ro.utcluj.rabbitmq.taxi;
 
 /**
  *
- * @author rares
+ * @author papixo
  */
 public class MainWindow extends javax.swing.JFrame {
 
