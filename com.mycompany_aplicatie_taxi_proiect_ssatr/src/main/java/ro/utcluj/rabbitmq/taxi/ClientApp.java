@@ -16,7 +16,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author rares
+ * @author papixo
  */
 public class ClientApp extends javax.swing.JFrame implements DeliverCallback, Runnable{
     
